@@ -1,0 +1,16 @@
+{
+  "name": "moz-flex-direction-autoprefixer-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "mocha": "^2.2.5",
+    "postcss": "^4.1.16"
+  }
+}
